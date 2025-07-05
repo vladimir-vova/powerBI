@@ -9,7 +9,7 @@
   <summary>Детали</summary>
   <ul>
 	<li><a href="https://github.com/vladimir-vova/powerBI/tree/main/learningVisualisation/CourseUSD">CourseUSD</a></li>
-	<li><a href="">https://github.com/vladimir-vova/powerBI/tree/main/learningVisualisation/Staffing_project</a></li>
+	<li><a href="https://github.com/vladimir-vova/powerBI/tree/main/learningVisualisation/Staffing_project">Staffing_project</a></li>
   </ul>
 </details>
 
