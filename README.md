@@ -17,6 +17,8 @@
 
 <p><a href="https://github.com/vladimir-vova/powerBI/tree/main/wildberries">wildberries</a></p>
 
+<p><a href="https://github.com/vladimir-vova/powerBI/tree/main/sales_analysis">sales_analysis</a></p>
+
 <br><h2>📜 Лицензия</h2><br>
 Этот проект распространяется под лицензией MIT.<br>
 
